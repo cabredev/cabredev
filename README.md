@@ -34,30 +34,40 @@ Here are some ideas to get you started:
 
 </div>
 
-### 🛠️ Lenguajes
+<div align="center">
+<h3>Tecnologías y Herramientas</h3> 
 
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html5" width="24">](https://www.w3.org//)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" width="24">](https://www.w3.org/Style/CSS/Overview.en.html/)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="jQuery" width="24">](https://jquery.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="php" width="38">](https://php.net/) | [<img src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_dotnet.png" alt=".net" width="38">](https://www.microsoft.com/)
-|---|---|---|---|---|
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+<a href="https://www.php.net/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="postman" width="45" height="45"/> </a> 
+    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
+    <a href="https://postgres.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgres" width="45" height="45"/> </a>   
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
+<a href="https://www.linux.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/> </a>
+   <a href="https://app.powerbi.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="power bi" width="40" height="40"/> </a>
+    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
+    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>
+       <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="45" height="45"/> </a>
+       <a href="https://www.java.com/es/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="45" height="45"/> </a> 
+       <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/> </a>
+        <a href="https://www.arduino.cc/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="arduino" width="45" height="45"/> </a>
 
-### Framework y Librerías
-
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="24">](https://getbootstrap.com/) | [<img src="https://github.com/Iggy-Codes/logo-images/blob/master/logos/jquery.png" alt="jQuery" width="24">](https://jquery.com/)
-|---|---|
- 
-### 🛠️ Herramientas
-
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" width="24">](https://www.mysql.com/) | [<img src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_apache.png?" alt="apache" width="24">](https://www.apache.org/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="firebase" width="24">](https://firebase.google.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="24">](https://git-scm.com/) |  [<img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="github" width="24">](https://www.github.com/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" alt="vscode" width="24">](https://code.visualstudio.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" width="24">](https://ubuntu.com/)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png" alt="Redis" width="24">](https://redis.io/) | mucho más...
-|---|---|---|---|---|---|---|---|---|
 
 ### 📈 Github Stats
 
-[![Anand K. Mainali GitHub Stats](https://github-readme-stats.vercel.app/api?username=cabredev&show_icons=true&count_private=true)](https://github.com/cabredev)
+[![ReadMe Card](https://github-readme-stats-fast.vercel.app/api?username=cabredev&show_icons=true&theme=default&rank_icon=github&locale=en)]()
+
+[![ReadMe Card](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=alpha-drm&layout=compact&locale=en)]()
 
 ### ✨ Github Repositorios
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cabredev&repo=soportecnic&show_owner=true)](https://github.com/cabredev/soportecnic)
+[![ReadMe Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=cabredev&repo=soportecnic&show_owner=true)](https://github.com/cabredev/soportecnic)
 
 ### 🌐 Encuéntrame en
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuusuario)
 [![Portfolio](https://img.shields.io/badge/-Portafolio-000?style=flat&logo=google-chrome&logoColor=white)](https://tusitio.com)
+
+</div>
